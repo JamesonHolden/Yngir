@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unyschkovsky {
+namespace Yngir {
     public class Program {
         public static Dictionary<string, string> GameData = new Dictionary<string, string>();
         public static Player Player = new Player();
