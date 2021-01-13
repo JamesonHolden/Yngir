@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 
-namespace Unyschkovsky {
+namespace Yngir {
     public class ConsoleStream {
         private static Thread InputThreadL, InputThreadK;
         private static AutoResetEvent GotInputL, GetInputL, GotInputK, GetInputK;
