@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unyschkovsky {
+namespace Yngir {
     public class Player : Entity {
         public string Quality = "Bronze 1";
         public InventoryHandler Inventory = new InventoryHandler();
