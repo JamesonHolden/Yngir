@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unyschkovsky {
+namespace Yngir {
     public class Enemy : Entity {
         new public Dictionary<string, string> Attribute = new Dictionary<string, string>();
         new public Dictionary<string, int> Value = new Dictionary<string, int>();
