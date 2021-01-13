@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace Unyschkovsky {
+namespace Yngir {
     public class FileManager {
         private List<string> SaveData = new List<string>();
         public void LoadFile(string Name) {
