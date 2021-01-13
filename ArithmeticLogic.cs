@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unyschkovsky {
+namespace Yngir {
     public static class ArithmeticLogic {
         public static int Roll(this Entity Roller) {
             string Input = Roller.Attribute["Roll"];
