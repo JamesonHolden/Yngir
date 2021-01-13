@@ -1,0 +1,72 @@
+Bronze 1:d4
+Bronze 2:d6
+Bronze 3:d8
+Silver 1:2d4
+Silver 2:2d6
+Silver 3:2d8
+Gold 1:3d4
+Gold 2:3d6
+Gold 3:3d8
+Platinum 1:d20
+Platinum 2:d40
+Platinum 3:d60
+Platinum 4:d80
+Iridium 1:2d20
+Iridium 2:2d40
+Iridium 3:2d60
+Iridium 4:2d80
+Osmium 1:3d20
+Osmium 2:3d40
+Osmium 3:3d60
+Osmium 4:3d80
+Hellfire 1:10d20
+Hellfire 2:10d40
+Hellfire 3:10d60
+Hellfire 4:10d80
+Hellfire 5:10d100
+Blessed 1:15d20
+Blessed 2:15d40
+Blessed 3:15d60
+Blessed 4:15d80
+Blessed 5:15d100
+Godly 1:30d20
+Godly 2:30d40
+Godly 3:30d60
+Godly 4:30d80
+Godly 5:30d100
+Shortbow:Marksmanship
+Longbow:Marksmanship
+Compound Bow:Marksmanship
+Shortsword:Martial Arts
+Longsword:Martial Arts
+Dagger:Stealth
+Shuriken:Stealth
+Staff:Arcane Magic
+Wand:Arcane Magic
+Greatsword:Martial Arts
+Cleaver:Martial Arts
+Hands:Nature Magic
+Bracelet:Nature Magic
+bronze:4
+silver:4
+gold:4
+platinum:5
+iridium:5
+osmium:5
+hellfire:6
+blessed:6
+godly:6
+ranger:Shortbow/Longbow/Compound Bow
+fighter:Shortsword/Longsword
+rogue:Dagger/Shuriken
+mage:Wand/Staff
+barbarian:Greatsword/Cleaver
+druid:Hands/Bracelet
+classes:Fighter/Ranger/Mage/Rogue/Druid/Barbarian
+races:Dragonborn/Dwarf/Elf/Human/Tiefling/Gnome
+Ranger:10/40/10/5/5/5/10/15
+Fighter:10/5/30/5/5/15/20/10
+Rogue:20/10/10/5/5/5/5/40
+Mage:5/10/5/20/40/5/10/5
+Barbarian:5/5/10/5/5/30/35/5
+Druid:5/10/5/40/20/5/5/10
