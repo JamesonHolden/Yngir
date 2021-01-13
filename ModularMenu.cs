@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unyschkovsky {
+namespace Yngir {
     public class ModularMenu<T> {
         private bool Running;
         private int OptionSelected;
