@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unyschkovsky {
+namespace Yngir {
     public static class CombatHandler {
         public static Dictionary<string, Enemy> Enemies = new Dictionary<string, Enemy>(); 
         public static void Attack(this Entity Attacker, Entity Defender) {
